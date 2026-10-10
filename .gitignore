@@ -1,13 +1,8 @@
 # Build directories and intermediate artifacts
 build/
-bin/
 out/
 cmake-build-*/
 .cache/
-
-# Audio verification outputs
-*.wav
-tests/audio_output/
 
 # IDE and Editor files
 .vs/
@@ -21,8 +16,7 @@ tests/audio_output/
 Thumbs.db
 desktop.ini
 
-# Compiled binaries and libraries
-*.exe
+# Intermediate compiled libraries and objects
 *.dll
 *.so
 *.dylib
@@ -30,4 +24,9 @@ desktop.ini
 *.lib
 *.obj
 *.o
+
+# Default ignore binaries except distribution bin/
+*.exe
 *.vst3
+!bin/
+!bin/**
