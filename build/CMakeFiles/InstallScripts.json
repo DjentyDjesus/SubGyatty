@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/sriha/Documents/Antigrav/SubGyatty/build/cmake_install.cmake",
+		"C:/Users/sriha/Documents/Antigrav/SubGyatty/build/core/cmake_install.cmake",
+		"C:/Users/sriha/Documents/Antigrav/SubGyatty/build/tests/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,8 @@
+C:/Users/sriha/Documents/Antigrav/SubGyatty/build/CMakeFiles/edit_cache.dir
+C:/Users/sriha/Documents/Antigrav/SubGyatty/build/CMakeFiles/rebuild_cache.dir
+C:/Users/sriha/Documents/Antigrav/SubGyatty/build/core/CMakeFiles/sub_phatty_core.dir
+C:/Users/sriha/Documents/Antigrav/SubGyatty/build/core/CMakeFiles/edit_cache.dir
+C:/Users/sriha/Documents/Antigrav/SubGyatty/build/core/CMakeFiles/rebuild_cache.dir
+C:/Users/sriha/Documents/Antigrav/SubGyatty/build/tests/CMakeFiles/dsp_verification.dir
+C:/Users/sriha/Documents/Antigrav/SubGyatty/build/tests/CMakeFiles/edit_cache.dir
+C:/Users/sriha/Documents/Antigrav/SubGyatty/build/tests/CMakeFiles/rebuild_cache.dir

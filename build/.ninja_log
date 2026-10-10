@@ -1,0 +1,9 @@
+# ninja log v7
+4	1146	8133465742136402	core/CMakeFiles/sub_phatty_core.dir/src/SynthEngine.cpp.obj	b1c5ad9037f0bf89
+1150	1291	8133465753594701	core/libsub_phatty_core.a	b3fd0fbec5e4920a
+23	1811	8133465742332207	tests/CMakeFiles/dsp_verification.dir/dsp_verification.cpp.obj	fa66fecac2d23005
+1812	1969	8133465760219201	tests/dsp_verification.exe	d963ba451274e5fd
+21	530	8133466087072493	core/CMakeFiles/sub_phatty_core.dir/src/SynthEngine.cpp.obj	b1c5ad9037f0bf89
+531	642	8133466092176368	core/libsub_phatty_core.a	b3fd0fbec5e4920a
+42	1033	8133466087288126	tests/CMakeFiles/dsp_verification.dir/dsp_verification.cpp.obj	fa66fecac2d23005
+1033	1189	8133466097195434	tests/dsp_verification.exe	d963ba451274e5fd
